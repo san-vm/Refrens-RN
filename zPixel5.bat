@@ -1,0 +1,1 @@
+C:\Users\San\AppData\Local\Android\Sdk\emulator\emulator -avd Pixel5
