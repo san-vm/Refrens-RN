@@ -23,7 +23,7 @@ const Profile = ({ route }) => {
 				<Text style={{ fontWeight: "bold", fontSize: 15 }}>{item.name}</Text>
 			</View>
 
-			<Text style={styles.title}>Spices: </Text>
+			<Text style={styles.title}>Species: </Text>
 			<View style={styles.infoBox}>
 				<Text style={{}}>{item.species + ` (${item.gender[0]})`}</Text>
 			</View>
